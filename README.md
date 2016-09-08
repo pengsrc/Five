@@ -2,6 +2,7 @@ Five
 ====
 A Qt five-in-a-row Game
 
+_WARNING: THIS PROJECT CONTAINS REALLY BAD CODE, I WAS SO STUPID!!!_
 
 Description
 -----------
